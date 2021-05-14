@@ -88,6 +88,10 @@ dependencies {
     //  Accompanist
     implementation "com.google.accompanist:accompanist-coil:$accompanist_version"
     implementation "com.google.accompanist:accompanist-insets:$accompanist_version"
+    implementation "com.google.accompanist:accompanist-systemuicontroller:$accompanist_version"
+    implementation "com.google.accompanist:accompanist-swiperefresh:$accompanist_version"
+    implementation "com.google.accompanist:accompanist-pager:$accompanist_version"
+    implementation "com.google.accompanist:accompanist-flowlayout:$accompanist_version"
 
     //  Hilt
     implementation "com.google.dagger:hilt-android:$dagger_hilt_version"
